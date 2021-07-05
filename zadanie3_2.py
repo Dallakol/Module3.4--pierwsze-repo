@@ -9,3 +9,5 @@ for key, value in shopping_dict.items():
 
 len_values = len(shopping_dict["piekarnia,"]) + len(shopping_dict["warzywniak,"])
 print("W sumie kupuję", len_values , "produktów")
+
+print()

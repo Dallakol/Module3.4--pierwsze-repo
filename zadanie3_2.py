@@ -13,3 +13,4 @@ print("W sumie kupuję", len_values , "produktów")
 print()
 
 print("Test gałęzi pobocznej")
+print("Miłego dnia mentorze Pawle :) , póki co brak problemów z kótrymi bym sobie nie poradził")
